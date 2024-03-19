@@ -42,7 +42,13 @@ Al utilizar Skills Network para aprender React y construir la aplicación Todo A
 
 Al combinar los conocimientos adquiridos en los cursos de React de Skills Network con la práctica de construir la aplicación Todo App, se consolidan las habilidades en el desarrollo de aplicaciones web modernas y se obtiene una experiencia práctica valiosa.
 
-### Importaciones
+![capturas](img/1.png)
+![capturas](img/2.png)
+![capturas](img/3.png)
+![capturas](img/4.png)
+![capturas](img/5.png)
+
+## Importaciones
 
 ```jsx
 import React, { useState, useEffect } from "react";
